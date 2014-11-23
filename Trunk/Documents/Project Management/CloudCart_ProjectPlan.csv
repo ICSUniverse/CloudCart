@@ -1,0 +1,64 @@
+﻿,,Task Name,Duration,Work,Start,Finish,Predecessors,Resource Names,% Complete
+1,,Analysis and Documentation,8 days,88 hrs,11/24/14,12/3/14,,,0%
+2,,Business/Functional requirment analysis and document,2 days,16 hrs,11/24/14,11/25/14,,Deepak Mantri,0%
+3,,Technical Design Document,5 days,40 hrs,11/26/14,12/2/14,2,Deepak Mantri,0%
+4,,Design Discussion with team,1 day,32 hrs,12/3/14,12/3/14,3,Deepak Mantri Ankush Somani Yogeshwar Kabra Raghav Maheshwari,0%
+5,,General,4 days,88 hrs,12/4/14,12/9/14,,,0%
+6,,Setup,1 day,8 hrs,12/4/14,12/4/14,4,Deepak Mantri,0%
+7,,wireframe-design,1 day,16 hrs,12/5/14,12/5/14,6,Deepak Mantri Anuksh Somani,0%
+8,,Database design,2 days,64 hrs,12/8/14,12/9/14,7,Deepak Mantri Ankush Somani Yogeshwar Kabra Raghav Maheshwari,0%
+9,,FrontStore,24 days,520 hrs,11/24/14,12/25/14,,,0%
+10,,User Account Management,24 days,520 hrs,11/24/14,12/25/14,,,0%
+11,,API development,11 days,168 hrs,12/10/14,12/24/14,,,0%
+12,,Visitor Features ,11 days,88 hrs,12/10/14,12/24/14,,,0%
+13,,View Home Banners or Slide Show Gallery,2 days,16 hrs,12/10/14,12/11/14,8,Yogeshwar Kabra,0%
+14,,Browse Products ,1 day,8 hrs,12/12/14,12/12/14,13,Yogeshwar Kabra,0%
+15,,View Product Details ,4 days,32 hrs,12/15/14,12/18/14,14,Yogeshwar Kabra,0%
+16,,View FAQs ,1 day,8 hrs,12/19/14,12/19/14,15,Yogeshwar Kabra,0%
+17,,Become a Member through Registration process ,1 day,8 hrs,12/22/14,12/22/14,16,Yogeshwar Kabra,0%
+18,,View Static Pages ,2 days,16 hrs,12/23/14,12/24/14,17,Yogeshwar Kabra,0%
+19,,Registered Member Panel ,10 days,80 hrs,12/10/14,12/23/14,,,0%
+20,,Login to site ,1 day,8 hrs,12/10/14,12/10/14,8,Raghav Maheshwari,0%
+21,,Manage Account ,2 days,16 hrs,12/11/14,12/12/14,20,Raghav Maheshwari,0%
+22,,My Profile ,2 days,16 hrs,12/15/14,12/16/14,21,Raghav Maheshwari,0%
+23,,My Orders ,2 days,16 hrs,12/17/14,12/18/14,22,Raghav Maheshwari,0%
+24,,Buy Product (Checkout) ,2 days,16 hrs,12/19/14,12/22/14,23,Raghav Maheshwari,0%
+25,,Logout,1 day,8 hrs,12/23/14,12/23/14,24,Raghav Maheshwari,0%
+26,,UI Development,24 days,352 hrs,11/24/14,12/25/14,,,0%
+27,,Visitor Features ,23 days,160 hrs,11/24/14,12/24/14,,,0%
+28,,View Home Banners or Slide Show Gallery,2 days,32 hrs,12/12/14,12/15/14,13,Ankush Somani Deepak Mantri,0%
+29,,Browse Products ,2 days,32 hrs,12/15/14,12/16/14,14,Ankush Somani Deepak Mantri,0%
+30,,View Product Details ,2 days,32 hrs,12/19/14,12/22/14,15,Ankush Somani Deepak Mantri,0%
+31,,View FAQs ,2 days,32 hrs,12/22/14,12/23/14,16,Ankush Somani Deepak Mantri,0%
+32,,Become a Member through Registration process ,2 days,32 hrs,12/23/14,12/24/14,17,Ankush Somani Deepak Mantri,0%
+33,,View Static Pages ,1 day,0 hrs,11/24/14,11/24/14,,,0%
+34,,Registered Member Panel ,11 days,192 hrs,12/11/14,12/25/14,,,0%
+35,,Login to site ,2 days,32 hrs,12/11/14,12/12/14,20,Ankush Somani Deepak Mantri,0%
+36,,Manage Account ,2 days,32 hrs,12/15/14,12/16/14,21,Ankush Somani Deepak Mantri,0%
+37,,My Profile ,2 days,32 hrs,12/17/14,12/18/14,22,Ankush Somani Deepak Mantri,0%
+38,,My Orders ,2 days,32 hrs,12/19/14,12/22/14,23,Ankush Somani Deepak Mantri,0%
+39,,Buy Product (Checkout) ,2 days,32 hrs,12/23/14,12/24/14,24,Ankush Somani Deepak Mantri,0%
+40,,Logout,2 days,32 hrs,12/24/14,12/25/14,25,Ankush Somani Deepak Mantri,0%
+41,,Admin Panel,36 days,528 hrs,12/10/14,1/28/15,,,0%
+42,,API Development,34 days,272 hrs,12/10/14,1/26/15,,,0%
+43,,Store Management,34 days,272 hrs,12/10/14,1/26/15,,,0%
+44,,Login,2 days,16 hrs,12/10/14,12/11/14,8,Deepak Mantri,0%
+45,,Dashboard,5 days,40 hrs,12/12/14,12/18/14,44,Deepak Mantri,0%
+46,,Administrator User Management,2 days,16 hrs,12/19/14,12/22/14,45,Deepak Mantri,0%
+47,,Site Member(Customer) Management,3 days,24 hrs,12/23/14,12/25/14,46,Deepak Mantri,0%
+48,,Product Management,5 days,40 hrs,12/26/14,1/1/15,47,Deepak Mantri,0%
+49,,Price Chart Management ,5 days,40 hrs,1/2/15,1/8/15,48,Deepak Mantri,0%
+50,,Banner Manager ,2 days,16 hrs,1/9/15,1/12/15,49,Deepak Mantri,0%
+51,,Order Manager ,5 days,40 hrs,1/13/15,1/19/15,50,Deepak Mantri,0%
+52,,Shipping Management ,5 days,40 hrs,1/20/15,1/26/15,51,Deepak Mantri,0%
+53,,UI Development,34 days,256 hrs,12/12/14,1/28/15,,,0%
+54,,Store Management,34 days,256 hrs,12/12/14,1/28/15,,,0%
+55,,Login,2 days,32 hrs,12/12/14,12/15/14,44,Ankush Somani Deepak Mantri,0%
+56,,Dashboard,2 days,32 hrs,12/19/14,12/22/14,45,Ankush Somani Deepak Mantri,0%
+57,,Administrator User Management,2 days,16 hrs,12/23/14,12/24/14,46,Yogeshwar Kabra,0%
+58,,Site Member(Customer) Management,2 days,16 hrs,12/26/14,12/29/14,47,Raghav Maheshwari,0%
+59,,Product Management,2 days,32 hrs,1/2/15,1/5/15,48,Ankush Somani Deepak Mantri,0%
+60,,Price Chart Management ,2 days,32 hrs,1/9/15,1/12/15,49,Ankush Somani Deepak Mantri,0%
+61,,Banner Manager ,2 days,32 hrs,1/13/15,1/14/15,50,Ankush Somani Deepak Mantri,0%
+62,,Order Manager ,2 days,32 hrs,1/20/15,1/21/15,51,Ankush Somani Deepak Mantri,0%
+63,,Shipping Management ,2 days,32 hrs,1/27/15,1/28/15,52,Ankush Somani Deepak Mantri,0%
